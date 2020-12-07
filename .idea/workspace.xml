@@ -41,6 +41,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
     <option name="FILTER_WARNINGS" value="false" />
@@ -64,6 +67,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1iOTdmS1PPj4MXeoVfqArmevUPm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path" value="C:\Users\YANG\Downloads\【批量下载】standard-1.1.2等\ssm-jar包\standard-1.1.2.jar" />
     <property name="Downloaded.Files.Path.Enabled" value="true" />
@@ -464,12 +468,23 @@
       <workItem from="1607309863039" duration="535000" />
       <workItem from="1607310411581" duration="1357000" />
       <workItem from="1607311799791" duration="574000" />
-      <workItem from="1607312385057" duration="10039000" />
+      <workItem from="1607312385057" duration="10363000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
